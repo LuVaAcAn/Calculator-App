@@ -32,10 +32,11 @@ The CSS defines the style and appearance of the application. Here are the highli
 ## 📂 File Structure
 
 The project has the following file structure:
-calculator-app/
-│ 
-├── index.html
-└── style.css
+- calculator-app/
+- │ 
+- ├── index.html
+- └── style.css
+  
 ### HTML
 
 The `index.html` file defines the structure of the user interface.
